@@ -3,11 +3,6 @@
   AI/ML • Full-Stack Web Development • Open Source
 </p>
 
-<p align="center">
-  <a href="https://github.com/Kadam-Atharva">
-    <img src="https://img.shields.io/github/followers/Kadam-Atharva?label=Followers&style=flat-square" />
-  </a>
-</p>
 
 ---
 
