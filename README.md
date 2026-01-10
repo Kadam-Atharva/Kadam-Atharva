@@ -69,14 +69,6 @@ I'm a passionate developer focused on creating intelligent applications that sol
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kadam-Atharva&theme=react-dark&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF" alt="Contribution Graph" />
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
