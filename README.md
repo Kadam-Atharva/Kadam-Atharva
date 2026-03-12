@@ -85,6 +85,7 @@ I'm a passionate developer focused on creating intelligent applications that sol
 <div align="center">
   
 ### 💭 *"Building quietly. Learning constantly."*
+Just want to add something 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Kadam-Atharva&color=3B82F6&style=for-the-badge)
 
