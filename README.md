@@ -59,15 +59,6 @@ I'm a passionate developer focused on creating intelligent applications that sol
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kadam-Atharva&theme=radical&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="GitHub Streak" />
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kadam-Atharva&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
-</div>
-
----
 
 ## 🌐 Connect With Me
 
