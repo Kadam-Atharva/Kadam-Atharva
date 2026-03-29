@@ -17,7 +17,6 @@ I'm a passionate developer focused on creating intelligent applications that sol
 - 🔭 Currently working on AI-powered web applications
 - 🌱 Learning advanced machine learning architectures and cloud technologies
 - 💡 Interested in computer vision, NLP, and scalable backend systems
-- ⚡ Fun fact: I debug with print statements and I'm not ashamed
 
 ---
 
